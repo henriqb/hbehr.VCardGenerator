@@ -1,11 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard1.4</TargetFramework>
     <Authors>Henrique Borba Behr</Authors>
     <Company>hbehr</Company>
     <Product>VCard Generator</Product>
-    <Description>Generates bussines card using VCard 3.0</Description>
+    <Description>Generates business card using VCard 3.0</Description>
     <Copyright>Henrique Borba Behr</Copyright>
     <PackageLicenseUrl>https://github.com/henriqb/hbehr.VCardGenerator/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/henriqb/hbehr.VCardGenerator</PackageProjectUrl>
@@ -16,5 +15,4 @@
     <PackageReleaseNotes>Inicial release</PackageReleaseNotes>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
-
 </Project>
